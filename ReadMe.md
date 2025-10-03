@@ -66,21 +66,21 @@ UserManager.java
     java financial_trading.Main
 
 ## 📊 Example Output
-    Sample console output from the trading simulation:
-        [Market] AAPL @ $150 x 100 BUY
-        [Market] AAPL @ $151 x 50 SELL
-        [Trade] Executed: AAPL 50 @ $150.5
+- **Sample console output from the trading simulation:** 
+    - [Market] AAPL @ $150 x 100 BUY
+    - [Market] AAPL @ $151 x 50 SELL
+    - [Trade] Executed: AAPL 50 @ $150.5
 
 ## 📈 Future Work
-    Integrate with Yahoo Finance API for real-time data
-    Add a backtesting engine with historical datasets
-    Implement risk management & portfolio analytics
-    Create a visual dashboard (JavaFX or Python Streamlit)
+- **Integrate with Yahoo Finance API for real-time data**
+- **Add a backtesting engine with historical datasets**
+- **Implement risk management & portfolio analytics**
+- **Create a visual dashboard (JavaFX or Python Streamlit)**
 
 ## 🛠 Tech Stack
-    Java 17
-    Object-Oriented Design Patterns
-    JUnit (for testing)
+- **Java 17**
+- **Object-Oriented Design Patterns**
+- **JUnit (for testing)**
 
 ## 📜 License
 This project is licensed under the MIT License © 2025 Saniya Jain
