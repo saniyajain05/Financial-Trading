@@ -1,4 +1,4 @@
-package Assignment2;
+package financial_trading;
 
 import java.util.ArrayList;
 import java.util.HashMap;

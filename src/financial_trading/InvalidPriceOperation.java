@@ -1,4 +1,4 @@
-package Assignment2;
+package financial_trading;
 
 class InvalidPriceOperation extends Exception {
     public InvalidPriceOperation(String message) {
